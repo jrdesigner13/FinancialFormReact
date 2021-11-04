@@ -1,3 +1,7 @@
+<img width="1245" alt="Screenshot 2021-11-04 at 15 45 23" src="https://user-images.githubusercontent.com/38070740/140367691-5ca9f1cd-b7ed-4a51-96cc-29fae616266c.png">
+
+# Financial Form React - Simple project to study using React with TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
